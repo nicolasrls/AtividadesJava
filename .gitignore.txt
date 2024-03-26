@@ -1,0 +1,15 @@
+# Ignora todos os arquivos .tmp
+*.tmp
+*.classpath
+*.project
+
+# Ignora o diretório node_modules
+node_modules/
+.settings/
+
+
+# Ignora arquivos de log
+*.log
+
+# Ignora arquivos de configuração específicos da máquina
+.env
